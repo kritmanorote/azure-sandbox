@@ -8,7 +8,7 @@ public class HelloController {
 
 	@GetMapping("/")
 	public String index() {
-		return "Azure Sandbox 2";
+		return "Azure Sandbox 3";
 	}
 
 }
